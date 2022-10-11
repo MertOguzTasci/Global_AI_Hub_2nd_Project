@@ -1,6 +1,8 @@
 # Global_AI_Hub_2nd_Project
 # Project 2
 
+A movie dataset is analyzed according to the following:
+
 (Link to Dataset: https://www.kaggle.com/datasets/luiscorter/netflix-original-films-imdb-scores )
 
 ● In which language were the long-run movies created according to the dataset? Make a visualization.
