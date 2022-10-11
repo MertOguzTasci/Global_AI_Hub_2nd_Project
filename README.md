@@ -1,34 +1,34 @@
 # Global_AI_Hub_2nd_Project
 # Project 2
 
-(Dataset Linki: https://www.kaggle.com/datasets/luiscorter/netflix-original-films-imdb-scores )
+(Link to Dataset: https://www.kaggle.com/datasets/luiscorter/netflix-original-films-imdb-scores )
 
-● Veri setine göre uzun soluklu filmler hangi dilde oluşturulmuştur? Görselleştirme yapınız.
+● In which language were the long-run movies created according to the dataset? Make a visualization.
 
-● 2019 Ocak ile 2020 Haziran tarihleri arasında 'Documentary' türünde çekilmiş filmlerin IMDB değerlerini bulup görselleştiriniz.
+● Find and visualize the IMDB values of movies shot in the 'Documentary' genre between January 2019 and June 2020.
 
-● İngilizce çekilen filmler içerisinde hangi tür en yüksek IMDB puanına sahiptir?
+● Which genre has the highest IMDB rating among movies shot in English?
 
-● 'Hindi' Dilinde çekilmiş olan filmlerin ortalama 'runtime' suresi nedir?
+● What is the average 'runtime' of movies shot in 'Hindi'?
 
-● 'Genre' Sütunu kaç kategoriye sahiptir ve bu kategoriler nelerdir? Görselleştirerek ifade ediniz.
+● How many categories does the 'Genre' Column have and what are these categories? Express it visually.
 
-● Veri setinde bulunan filmlerde en çok kullanılan 3 dili bulunuz.
+● Find the 3 most used languages in the movies in the data set.
 
-● IMDB puanı en yüksek olan ilk 10 film hangileridir?
+● What are the top 10 movies with the highest IMDB rating?
 
-● IMDB puanı ile 'Runtime' arasında nasıl bir korelasyon vardır? İnceleyip görselleştiriniz.
+● What is the correlation between IMDB score and 'Runtime'? Examine and visualize.
 
-● IMDB Puanı en yüksek olan ilk 10 'Genre' hangileridir? Görselleştiriniz.
+● Which are the top 10 'Genre' with the highest IMDB Score? Visualize it.
 
-● 'Runtime' değeri en yüksek olan ilk 10 film hangileridir? Görselleştiriniz.
+● What are the top 10 movies with the highest 'Runtime'? Visualize it.
 
-● Hangi yılda en fazla film yayımlanmıştır? Görselleştiriniz.
+● In which year was the most movies released? Visualize it.
 
-● Hangi dilde yayımlanan filmler en düşük ortalama IMBD puanına sahiptir? Görselleştiriniz.
+● Which language movies have the lowest average IMBD ratings? Visualize it.
 
-● Hangi yılın toplam "runtime" süresi en fazladır?
+● Which year has the greatest total runtime?
 
-● Her bir dilin en fazla kullanıldığı "Genre" nedir?
+● What is the "Genre" where each language is used the most?
 
-● Veri setinde outlier veri var mıdır? Açıklayınız.
+● Is there outlier data in the data set? Please explain.
